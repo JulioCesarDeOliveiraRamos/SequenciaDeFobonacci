@@ -1,0 +1,14 @@
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\bin\Debug\net7.0\sequencia de fibonacci.exe
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\bin\Debug\net7.0\sequencia de fibonacci.deps.json
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\bin\Debug\net7.0\sequencia de fibonacci.runtimeconfig.json
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\bin\Debug\net7.0\sequencia de fibonacci.dll
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\bin\Debug\net7.0\sequencia de fibonacci.pdb
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.AssemblyInfoInputs.cache
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.AssemblyInfo.cs
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.csproj.CoreCompileInputs.cache
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.dll
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\refint\sequencia de fibonacci.dll
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.pdb
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\sequencia de fibonacci.genruntimeconfig.cache
+E:\C#\sequencia de fibonacci\sequencia de fibonacci\obj\Debug\net7.0\ref\sequencia de fibonacci.dll
